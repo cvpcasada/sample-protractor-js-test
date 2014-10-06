@@ -16,5 +16,13 @@ exports.config = {
     reporter: "spec",
     enableTimeouts: false,
     slow: 3000
+  },
+
+  // preparation
+  onPrepare: function() {
+    global.dv = browser.driver;
+    global.isAngularSite = function(flag) {
+      browser.ignoreSynchronization = !flag;
+    }
   }
 };
