@@ -38,3 +38,4 @@ This runs through all dependencies listed in `package.json` and downloads them t
 * [Mocha](http://visionmedia.github.io/mocha/)
 * [Chai](http://chaijs.com/)
 * [Chai as promised](http://chaijs.com/plugins/chai-as-promised)
+* [Webdriver.js](https://code.google.com/p/selenium/wiki/WebDriverJs#Understanding_the_API)
