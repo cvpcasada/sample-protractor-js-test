@@ -31,3 +31,10 @@ This project is built using Gulp, a JavaScript task runner.
   npm install
 
 This runs through all dependencies listed in `package.json` and downloads them to a `node_modules` folder in your project directory.
+
+## Documentation/Reading
+* [gulp-protractor](https://github.com/mllrsohn/gulp-protractor)
+* [Angular Protractor](https://github.com/angular/protractor)
+* [Mocha](http://visionmedia.github.io/mocha/)
+* [Chai](http://chaijs.com/)
+* [Chai as promised](http://chaijs.com/plugins/chai-as-promised)
