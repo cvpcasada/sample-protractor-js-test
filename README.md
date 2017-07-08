@@ -35,7 +35,7 @@ This runs through all dependencies listed in `package.json` and downloads them t
 ## Documentation/Reading
 * [gulp-protractor](https://github.com/mllrsohn/gulp-protractor)
 * [Angular Protractor](https://github.com/angular/protractor)
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Chai](http://chaijs.com/)
 * [Chai as promised](http://chaijs.com/plugins/chai-as-promised)
 * [Webdriver.js](https://code.google.com/p/selenium/wiki/WebDriverJs#Understanding_the_API)
